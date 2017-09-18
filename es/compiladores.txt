@@ -1,5 +1,4 @@
-Clang supports all C++14 features from version 3.4 on.
--> see http://clang.llvm.org/cxx_status.html
+Clang soporta todas las características de C++14 desde la versión 3.4.
+-> Visita la página en inglés http://clang.llvm.org/cxx_status.html
 
-On http://melpon.org/wandbox/ you can compile code with different compiler
-versions.
+En http://melpon.org/wandbox/ puedes compilar código con varias versiones de compiladores.
