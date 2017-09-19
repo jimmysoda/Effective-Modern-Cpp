@@ -3,3 +3,6 @@ CMakeFiles
 cmake_install.cmake
 CMakeCache.txt
 *.so
+*~
+*.swp
+*.bak
