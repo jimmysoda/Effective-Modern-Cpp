@@ -8,7 +8,7 @@
  *
  * entonces dos tipos son deducidos: uno para T y otro para TipoDeParam.
  * Estos frecuentemente son diferentes, porque TipoDeParam a menudo
- * contiene adornos, por ejemplo, calificadores const or de referencia.
+ * contiene adornos, por ejemplo, calificadores const o de referencia.
  */
 
 template<typename T>
